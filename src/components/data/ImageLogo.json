@@ -1,0 +1,90 @@
+[
+    {
+       "id_imagen": 1,
+       "name_image": "Html 5",
+       "ubication": "/image/logos/html5.png"
+       
+    },
+    {
+        "id_imagen": 2,
+        "name_image": "Node",
+        "ubication": "/image/logos/node.png"
+      },
+      {
+        "id_imagen": 3,
+        "name_image": "Java",
+        "ubication": "/image/logos/java.png"
+      },
+      {
+        "id_imagen": 4,
+        "name_image": "Blazor",
+        "ubication": "/image/logos/blazor.png"
+      },
+      {
+        "id_imagen": 5,
+        "name_image": "C++",
+        "ubication": "/image/logos/c++.png"
+      },
+      {
+        "id_imagen": 6,
+        "name_image": "Android",
+        "ubication": "/image/logos/android.png"
+      },
+      {
+        "id_imagen": 7,
+        "name_image": "Angular",
+        "ubication": "/image/logos/angular.png"
+      },
+      {
+        "id_imagen": 8,
+        "name_image": "Mysql",
+        "ubication": "/image/logos/mysql.png"
+      },
+      {
+        "id_imagen": 9,
+        "name_image": "Vue",
+        "ubication": "/image/logos/vue.png"
+      },
+      {
+        "id_imagen": 10,
+        "name_image": "Sql Server",
+        "ubication": "/image/logos/sql.png"
+      },
+      {
+        "id_imagen": 11,
+        "name_image": "Python",
+        "ubication": "/image/logos/python.png"
+      },
+      {
+        "id_imagen": 12,
+        "name_image": "Php",
+        "ubication": "/image/logos/php.png"
+      },
+      {
+        "id_imagen": 13,
+        "name_image": "Laravel",
+        "ubication": "/image/logos/laravel.png"
+      },
+      {
+        "id_imagen": 14,
+        "name_image": "JavaScript",
+        "ubication": "/image/logos/javascript.png"
+      },
+      {
+        "id_imagen": 15,
+        "name_image": "Django",
+        "ubication": "/image/logos/django.png"
+      },
+      {
+        "id_imagen": 16,
+        "name_image": "Flutter",
+        "ubication": "/image/logos/flutter.png"
+      },
+      {
+        "id_imagen": 17,
+        "name_image": "Git",
+        "ubication": "/image/logos/git.png"
+      }
+
+]
+  
