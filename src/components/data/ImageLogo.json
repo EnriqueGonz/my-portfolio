@@ -2,88 +2,88 @@
     {
        "id_imagen": 1,
        "name_image": "Html 5",
-       "ubication": "/image/logos/html5.png"
+       "ubication": "/image/html5.png"
        
     },
     {
         "id_imagen": 2,
         "name_image": "Node",
-        "ubication": "/image/logos/node.png"
+        "ubication": "/image/node.png"
       },
       {
         "id_imagen": 3,
         "name_image": "Java",
-        "ubication": "/image/logos/java.png"
+        "ubication": "/image/java.png"
       },
       {
         "id_imagen": 4,
         "name_image": "Blazor",
-        "ubication": "/image/logos/blazor.png"
+        "ubication": "/image/blazor.png"
       },
       {
         "id_imagen": 5,
         "name_image": "C++",
-        "ubication": "/image/logos/c++.png"
+        "ubication": "/image/c++.png"
       },
       {
         "id_imagen": 6,
         "name_image": "Android",
-        "ubication": "/image/logos/android.png"
+        "ubication": "/image/android.png"
       },
       {
         "id_imagen": 7,
         "name_image": "Angular",
-        "ubication": "/image/logos/angular.png"
+        "ubication": "/image/angular.png"
       },
       {
         "id_imagen": 8,
         "name_image": "Mysql",
-        "ubication": "/image/logos/mysql.png"
+        "ubication": "/image/mysql.png"
       },
       {
         "id_imagen": 9,
         "name_image": "Vue",
-        "ubication": "/image/logos/vue.png"
+        "ubication": "/image/vue.png"
       },
       {
         "id_imagen": 10,
         "name_image": "Sql Server",
-        "ubication": "/image/logos/sql.png"
+        "ubication": "/image/sql.png"
       },
       {
         "id_imagen": 11,
         "name_image": "Python",
-        "ubication": "/image/logos/python.png"
+        "ubication": "/image.png"
       },
       {
         "id_imagen": 12,
         "name_image": "Php",
-        "ubication": "/image/logos/php.png"
+        "ubication": "/image/php.png"
       },
       {
         "id_imagen": 13,
         "name_image": "Laravel",
-        "ubication": "/image/logos/laravel.png"
+        "ubication": "/image/laravel.png"
       },
       {
         "id_imagen": 14,
         "name_image": "JavaScript",
-        "ubication": "/image/logos/javascript.png"
+        "ubication": "/image/javascript.png"
       },
       {
         "id_imagen": 15,
         "name_image": "Django",
-        "ubication": "/image/logos/django.png"
+        "ubication": "/image/django.png"
       },
       {
         "id_imagen": 16,
         "name_image": "Flutter",
-        "ubication": "/image/logos/flutter.png"
+        "ubication": "/image/flutter.png"
       },
       {
         "id_imagen": 17,
         "name_image": "Git",
-        "ubication": "/image/logos/git.png"
+        "ubication": "/image/git.png"
       }
 
 ]
